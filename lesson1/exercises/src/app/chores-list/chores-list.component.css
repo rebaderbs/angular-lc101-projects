@@ -1,0 +1,12 @@
+.chores {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: mediumslateblue;
+}
+
+h3  {
+  text-underline-position: below;
+}
+
+ul  {
+  font-style: italic;
+}
